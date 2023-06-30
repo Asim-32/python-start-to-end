@@ -1,0 +1,23 @@
+"""
+0. Modules
+1. what is class and object
+2. class constructer
+3. what is self
+4. what is str function in side the class.
+5. what is inheritence.
+6. what is multiple inheritence
+7. what is multilevel inheritence
+8. Method Resolution Order (MRO) in Python  //pending
+9. what is abstraction //pending
+10. what is method in class
+11. what is method overridding 
+12. what is method overloading Note: Method Overloading, a way to create multiple methods with the same name but different arguments, is not possible in Python.
+13. what is super
+14. Exception handling
+15. pip
+14.Django
+
+
+
+
+

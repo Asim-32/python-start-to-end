@@ -3,6 +3,9 @@ author: Manas
 Use: This is my first python class
 and I will be a python champion.
 """
+from nameModule import printname
+import math
+
 #indentation 
 def manas():
     print("manas")    
@@ -48,4 +51,7 @@ while i < 6:
   if i == 3:
     break
   i += 1
-    
+
+printname()
+pea = math.pi
+print(f"The value of pi is : {pea}")
