@@ -8,14 +8,19 @@
 6. what is multiple inheritence
 7. what is multilevel inheritence
 8. Method Resolution Order (MRO) in Python  //pending
-9. what is abstraction //pending
+9. what is abstraction
 10. what is method in class
 11. what is method overridding 
 12. what is method overloading Note: Method Overloading, a way to create multiple methods with the same name but different arguments, is not possible in Python.
 13. what is super
 14. Exception handling
 15. pip
-14.Django
+14. Django
+15. *arg **kwarg //pending
+16. If _name_ == _main_ //pending
+17. Abstraction class function
+18. Getter setter
+19. Decorater
 
 
 
